@@ -16,6 +16,6 @@ $ npm run test
 
 Todos (if given more time)
 
-- Write more unit tests - spefically for
+- Write more unit tests - e.g for getting same colour neighbours, moving block down columns etc
 - Add score for each block destroyed (display in corner of screen)
 - Animate on block destruction
