@@ -16,6 +16,7 @@ $ npm run test
 
 Todos (if given more time)
 
-- Write more unit tests - e.g for getting same colour neighbours, moving block down columns etc
-- Add score for each block destroyed (display in corner of screen)
-- Animate on block destruction
+- Write a lot more unit tests - e.g for getting same colour neighbours, moving block down columns etc
+- Add a score component to be displayed on screen with exponentially increasing points for each additional block destroyed. 
+- Animate the destruction of blocks and possibly add sound effects. 
+- Create a Main Menu and Game Over screen. 
